@@ -1,0 +1,18 @@
+body{
+background-color: #EFFFFD
+}
+
+.invalid {
+  display: none
+}
+#statement{
+  display: none
+}
+
+.input{
+  height: auto;
+  width: 100px;
+}
+
+footer{
+margin-top: 100px;}
